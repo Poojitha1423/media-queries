@@ -1,0 +1,19 @@
+p{
+    font-size: 30px;
+    color: aqua;
+}
+
+@media screen and (min-width:600px) {
+    .heading {
+        font-size: 50px;
+         color: red;
+}
+}
+@media screen and (min-width:768px) {
+    .heading {
+        font-size: 50px;
+         color: blue;
+ }
+}
+
+
